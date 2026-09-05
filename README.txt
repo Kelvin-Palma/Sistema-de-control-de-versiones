@@ -7,7 +7,7 @@ Integrantes:
 1. 
 2. 
 3. Kelvin Andres Palma
-4. 
+4.  
 5. 
 
 Actividad: Sistemas de control de versiones con Git
